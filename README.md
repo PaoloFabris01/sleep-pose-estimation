@@ -1,2 +1,1 @@
-# sleep-pose-estimation
-Sleep pose estimation
+# Sleep pose estimation
